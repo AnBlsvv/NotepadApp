@@ -5,7 +5,7 @@ using UnityEngine.SceneManagement;
 
 public class PauseMenu : MonoBehaviour
 {
-	public GameObject pauseMenuUI; 
+	public GameObject pauseMenuUI;
 
 	// Resume the Game. Hide the pause menu
 	public void Resume()

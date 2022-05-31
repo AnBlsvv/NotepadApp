@@ -9,6 +9,7 @@ public class MainMenu : MonoBehaviour
 		SceneManager.LoadScene(1);
 		// if you remove this line end exit the game to the main menu, than back to the game
 		// the game will be paused
+		
 		Time.timeScale = 1f;
 	}
 	// Game Exit Buttton
